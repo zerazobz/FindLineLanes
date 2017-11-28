@@ -1,0 +1,1731 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"minri",
+				"minRightY\tstatement"
+			],
+			[
+				"minr",
+				"minRightX\tstatement"
+			],
+			[
+				"maxl",
+				"maxLeftY\tstatement"
+			],
+			[
+				"minl",
+				"minLeftY\tstatement"
+			],
+			[
+				"min",
+				"minLeftX\tstatement"
+			],
+			[
+				"allx",
+				"allx2\tstatement"
+			],
+			[
+				"origin",
+				"originalIndexArray\tparam"
+			],
+			[
+				"bool",
+				"booleanArray\tparam"
+			],
+			[
+				"iter",
+				"iterator\tstatement"
+			],
+			[
+				"image",
+				"imageToSearch\tstatement"
+			],
+			[
+				"total",
+				"totalFalse\tstatement"
+			],
+			[
+				"tot",
+				"totalTrue\tstatement"
+			],
+			[
+				"tota",
+				"totalFalse\tstatement"
+			],
+			[
+				"print",
+				"printTwoFirstAndOneLas\tfunction"
+			],
+			[
+				"colo",
+				"color_thresholds\tstatement"
+			],
+			[
+				"color_",
+				"color_thresholds\tstatement"
+			],
+			[
+				"left",
+				"left_bottom\tstatement"
+			],
+			[
+				"lef",
+				"left_bottom\tstatement"
+			],
+			[
+				"ra",
+				"ray\tstatement"
+			],
+			[
+				"rig",
+				"right_bottom\tstatement"
+			],
+			[
+				"bot",
+				"fit_bottom"
+			],
+			[
+				"prin",
+				"print\tkeyword"
+			],
+			[
+				"region",
+				"region_thresholds\tstatement"
+			],
+			[
+				"reg",
+				"region_thresholds"
+			],
+			[
+				"pdf",
+				"pdfName"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"outpu",
+				"outputResult"
+			],
+			[
+				"saleI",
+				"sale_id"
+			],
+			[
+				"error",
+				"errorThrown"
+			],
+			[
+				"form",
+				"formId"
+			],
+			[
+				"saleItem",
+				"saleItemsTable"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"amount",
+				"amountColumn"
+			],
+			[
+				"subtotal",
+				"subTotalAmount"
+			],
+			[
+				"articleCos",
+				"articleCostUSD"
+			],
+			[
+				"ArticleC",
+				"ArticleCostPEN"
+			],
+			[
+				"priceI",
+				"priceItemUSD"
+			],
+			[
+				"sele",
+				"selectedArticle"
+			],
+			[
+				"purchase",
+				"purchaseItems"
+			],
+			[
+				"cost",
+				"costUSD"
+			],
+			[
+				"pur",
+				"purchaseDate"
+			],
+			[
+				"selectedS",
+				"selectedState"
+			],
+			[
+				"selec",
+				"selected"
+			],
+			[
+				"see",
+				"selectedSerieNumber"
+			],
+			[
+				"date",
+				"datepicker"
+			],
+			[
+				"purchas",
+				"purchaseCartHead"
+			],
+			[
+				"purchaseCar",
+				"purchaseCart"
+			],
+			[
+				"purchaseCart",
+				"purchaseCartHead"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"purch",
+				"purchaseCartHead"
+			],
+			[
+				"art",
+				"articles"
+			],
+			[
+				"bt-",
+				"btn-danger"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"input",
+				"inputClass"
+			],
+			[
+				"max",
+				"maxPrice"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"purc",
+				"purchase_id"
+			],
+			[
+				"Pur",
+				"Purchase"
+			],
+			[
+				"selecte",
+				"selectedPurchase"
+			],
+			[
+				"Purch",
+				"PurchaseItem"
+			],
+			[
+				"sleectedPuch",
+				"selectedPurchaseItem"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"nro",
+				"nro_serie"
+			],
+			[
+				"branch",
+				"branch_id"
+			],
+			[
+				"St",
+				"StockId"
+			],
+			[
+				"Article",
+				"ArticleController"
+			],
+			[
+				"select",
+				"selectedPurchase"
+			],
+			[
+				"sel",
+				"selectedArticle"
+			],
+			[
+				"stock",
+				"stockTable"
+			],
+			[
+				"seria",
+				"serialNumberVSPurchaseItemId"
+			],
+			[
+				"sto",
+				"stockItem"
+			],
+			[
+				"bran",
+				"branchName"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"debu",
+				"debug"
+			],
+			[
+				"amoun",
+				"amountItems"
+			],
+			[
+				"carth",
+				"saleCartHead"
+			],
+			[
+				"amo",
+				"amountItems"
+			],
+			[
+				"saleC",
+				"saleCartHead"
+			],
+			[
+				"SaleCart",
+				"saleCartHead"
+			],
+			[
+				"sale",
+				"saleCartHead"
+			],
+			[
+				"erro",
+				"errorThrown"
+			],
+			[
+				"tab",
+				"tableDataContainer"
+			],
+			[
+				"articl",
+				"articleid"
+			],
+			[
+				"factu",
+				"facturaHTML"
+			],
+			[
+				"inde",
+				"indexCurrentItem"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"ge",
+				"getAllArticlesSerialNumbers"
+			],
+			[
+				"remo",
+				"removeArticleSerialNumber"
+			],
+			[
+				"selected",
+				"selectedArticleSerialNumbers"
+			],
+			[
+				"arti",
+				"articleStockList"
+			],
+			[
+				"customer",
+				"customers"
+			],
+			[
+				"requ",
+				"requestTerm"
+			],
+			[
+				"dEBUG",
+				"Debugbar"
+			],
+			[
+				"curre",
+				"currentForm"
+			],
+			[
+				"req",
+				"requestTerm"
+			],
+			[
+				"new",
+				"newCustomer"
+			],
+			[
+				"totl",
+				"totalAmount"
+			],
+			[
+				"col",
+				"columnValue"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"articlesIn",
+				"articlesInAllWareHouses"
+			],
+			[
+				"artic",
+				"articleCode"
+			],
+			[
+				"Arti",
+				"ArticleController"
+			],
+			[
+				"iAr",
+				"iArticleId"
+			],
+			[
+				"iArt",
+				"iArticle"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"iSto",
+				"iStockByArticle"
+			],
+			[
+				"allSt",
+				"allStocksByBranch"
+			],
+			[
+				"articleAnd",
+				"articleAndStock"
+			],
+			[
+				"iS",
+				"iStockByBranch"
+			],
+			[
+				"iStoc",
+				"iStockByBranch"
+			],
+			[
+				"article",
+				"article_id"
+			],
+			[
+				"iArti",
+				"iArticle"
+			],
+			[
+				"ord",
+				"orderBy"
+			],
+			[
+				"ArtiCl",
+				"ArticleController"
+			],
+			[
+				"Artic",
+				"ArticleController"
+			],
+			[
+				"conte",
+				"context"
+			],
+			[
+				"iSal",
+				"iSale"
+			],
+			[
+				"startD",
+				"startDate"
+			],
+			[
+				"strt",
+				"strtotime"
+			],
+			[
+				"addro",
+				"addRowsForInvoice"
+			],
+			[
+				"foo",
+				"footerRow"
+			],
+			[
+				"footer",
+				"footerRow"
+			],
+			[
+				"inpu",
+				"input-group-addon"
+			],
+			[
+				"input-",
+				"input-group-addon"
+			],
+			[
+				"titl",
+				"titleRow"
+			],
+			[
+				"create",
+				"created_at"
+			],
+			[
+				"incomin",
+				"incomingEndDate"
+			],
+			[
+				"incomi",
+				"incomingStartDate"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ColorSelection.py",
+			"settings":
+			{
+				"buffer_size": 999,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ColorRegion.py",
+			"settings":
+			{
+				"buffer_size": 2211,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_ColorRegion.py",
+			"settings":
+			{
+				"buffer_size": 6946,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CannyEdges.py",
+			"settings":
+			{
+				"buffer_size": 983,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "HoughTransform.py",
+			"settings":
+			{
+				"buffer_size": 2233,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_HoughTransform.py",
+			"settings":
+			{
+				"buffer_size": 4864,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "work.py",
+			"settings":
+			{
+				"buffer_size": 4095,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 124.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"javsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"hp",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"key ",
+				"Preferences: Key Bindings"
+			],
+			[
+				"key bin",
+				"Preferences: Key Bindings"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/zerazobz/Study/CarND-LaneLines-P1/src/v0/_HoughTransform.py",
+		"/home/zerazobz/Study/CarND-LaneLines-P1/src/v0/_HoughTransform .py",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/app/Http/Controllers/ArticleController.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/app/Http/Controllers/CartController.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/carts/index.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/public/js/viewControllers/CartViewController.js",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/app/Http/Controllers/SaleController.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/.gitignore",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/vendor/cossou/jasperphp/src/JasperPHP/JasperPHP.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/.env",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/composer.json",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/inicio.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/layouts/master.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/menu.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/config/auth.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/app/Models/User.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/app/User.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/plugins/status.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/public/index.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/composer.lock",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/vendor/geekcom/phpjasper/src/JasperPHP.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/vendor/geekcom/phpjasper/docs/pt_BR/LEIA-ME_pt_BR.md",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/config/database.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/articles/mainSummary.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/carts/facturaTable.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/config/app.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/.env.example",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/vendor/geekcom/phpjasper/jasper",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/bootstrap/cache/services.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/vendor/barryvdh/laravel-debugbar/src/Facade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/sales/items.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/carts/boletaVentaTable.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/database/migrations/2017_09_09_160257_add_sale_price_sale_items.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/carts/ventaLibreTable.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/public/js/viewControllers/PurchaseViewController.js",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/carts/purchases.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/public/js/viewControllers/StoreViewController.js",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/articles/view.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/sales/index.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/sales/dailypurchase.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/purchases/items.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/app/Http/Controllers/PurchaseController.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/rotations/items.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/instants/items.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/damages/items.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/app/Http/Controllers/StockController.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/stocks/stock.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/public/js/viewControllers/StockViewController.js",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/public/js/viewControllers/ArticleViewController.js",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/public/js/jquery.validationEngine.js",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/vendor/mail/html/layout.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/public/css/validationEngine.jquery.css",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/database/migrations/2017_07_02_221146_add_purchaseitemid_stock.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/database/migrations/2017_08_30_205352_add_usd_cost_article_table.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/app/Http/Controllers/CustomerController.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/customers/getListCustomers.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/public/js/viewControllers/ClientsViewController.js",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/vendor/notifications/email.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/sales/dailysummary.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/articles/summaryTableBody.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/app/Models/Article.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/public/js/extensions/InventoryExtensions.js",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/templates/notifications/NotificationWarning.html",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/templates/notifications/NotificationError.html",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/templates/notifications/NotificationInfo.html",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/templates/notifications/NotificationSuccess.html",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/public/css/inventarios.css",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/public/css/jumbotron.css",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/public/js/jconfirmaction.jquery.js",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/public/js/jquery.floatThead.js",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/public/js/inventarios.js",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/public/css/jquery-ui.css",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/public/js/jquery-ui.js",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/public/css/jquery-ui-smoothness.css",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/bootstrap/cache/config.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/articles/edit.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/database/seeds/ArticlesSeeder_30042017.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/stocks/stockDetail.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/app/Http/Controllers/BaseController.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/app/Models/PurchaseItem.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/app/Models/Purchase.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/database/migrations/2017_06_15_202249_add_stockid_saleitem.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/database/migrations/2017_06_01_054640_add_nro_serie_stock.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/app/Models/SaleItem.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/app/Models/Stock.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/database/migrations/2017_06_16_231137_create_status_field_stock.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/database/migrations/2017_04_15_072155_add_customer_to_sales.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/database/migrations/2017_06_15_201845_add_nroserie_saleitem.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/app/Http/Controllers/DamageController.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/storage/framework/views/667390d31ecc7d3d509c2d6a6b996b9a66264f08.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/storage/framework/views/26922b3caf29d67796f7309c04864041207e0d71.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/database/seeds/BranchesTableSeeder.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/database/seeds/ArticlesSeeder_30042017_1312.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/app/Models/ArticleChanges.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/articles/index.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/app/Models/Customer.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/vendor/laravel/framework/src/Illuminate/Queue/DatabaseQueue.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/app/Models/SaleStore.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/database/migrations/2017_04_15_044745_create_customer_table.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/database/migrations/2013_07_21_163851_create_sales_table.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/database/migrations/2017_01_05_061156_updating_sales.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/database/migrations/2017_04_15_065230_add_customer_to_purchases.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/bootstrap/app.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/app/Console/Commands/UpgradeTimeStamps.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/database/migrations/2017_04_09_002957_updatePurchasesTable.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/vendor/laravel/framework/src/Illuminate/Foundation/Application.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/vendor/laravel/framework/src/Illuminate/Database/Connection.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/app/Console/Kernel.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/public/bootstrap-3.0.0/css/bootstrap.css",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/branches/edit.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/app/Http/Controllers/BranchController.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/routes/web.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/database/migrations/2017_02_24_080820_AddStatusFieldToArticle.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/database/migrations/2017_02_23_071536_add_status_to_articlev2.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/database/migrations/2017_02_23_065451_add_status_to_article.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/public/js/calculo-precio.js",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/articles/add.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/plugins/cartsale.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/branches/add.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/branches/index.blade.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/database/seeds/DatabaseSeeder.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/database/seeds/RolesTableSeeder.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/database/seeds/UsersTableSeeder.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/storage/framework/views/65fc67580918c37f2671f13a3f13fc2a5a543613.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/storage/framework/views/4cb86aa62d49d5335ffe7f3cbdfa6b1d541edd8b.php",
+		"/home/zerazobz/Documents/DEV/InventarioAvelino/InventarioAvelino/resources/views/rotations/index.blade.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"interator",
+			"HoughLinesP",
+			"mask",
+			"inRange",
+			"# plt.plot(x, y, 'b--', lw=4)",
+			"inRange",
+			"   \n",
+			"mask",
+			"mask' ",
+			"ShowImageData",
+			"image",
+			"()\t",
+			"getTruePointsandIndexes",
+			"lookForWhitePixels",
+			"printTwoFirstAndOneLas",
+			"lookForWhitePixels",
+			"color_select[",
+			"printTwoFirstAndOneLas",
+			"np",
+			"()",
+			"XX",
+			"color_thresholds",
+			"\ncolor_thresholds",
+			"color_thresholds",
+			"shape",
+			"GaussianBlur",
+			"plot",
+			"blue",
+			"140",
+			"jpg",
+			"high_threshold",
+			"low_threshold"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"iterator"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ColorSelection.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 999,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								443,
+								443
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ColorRegion.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2211,
+								2211
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 358.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_ColorRegion.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6946,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6610,
+								6639
+							],
+							[
+								6885,
+								6856
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2667.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "CannyEdges.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 983,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								983,
+								983
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "HoughTransform.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								610,
+								610
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 585.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_HoughTransform.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4864,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3349,
+								3349
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1170.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "work.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4095,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1193,
+								1193
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 915.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 88.0
+	},
+	"pinned_build_system": "",
+	"project": "carnd.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cartviewcontroller",
+				"public/js/viewControllers/CartViewController.js"
+			],
+			[
+				"index",
+				"resources/views/carts/index.blade.php"
+			],
+			[
+				"cartcontr",
+				"app/Http/Controllers/CartController.php"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"jasperphp",
+				"vendor/cossou/jasperphp/src/JasperPHP/JasperPHP.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"com",
+				"composer.json"
+			],
+			[
+				"user",
+				"app/Models/User.php"
+			],
+			[
+				"auth.",
+				"config/auth.php"
+			],
+			[
+				"menu",
+				"resources/views/menu.blade.php"
+			],
+			[
+				"status",
+				"resources/views/plugins/status.blade.php"
+			],
+			[
+				"master",
+				"resources/views/layouts/master.blade.php"
+			],
+			[
+				"inicio",
+				"resources/views/inicio.blade.php"
+			],
+			[
+				"articonr",
+				"app/Http/Controllers/ArticleController.php"
+			],
+			[
+				"menu.blade.php",
+				"resources/views/menu.blade.php"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"phpjasper",
+				"vendor/geekcom/phpjasper/src/JasperPHP.php"
+			],
+			[
+				"salecontro",
+				"app/Http/Controllers/SaleController.php"
+			],
+			[
+				"cartcontroller",
+				"app/Http/Controllers/CartController.php"
+			],
+			[
+				"facturatable",
+				"resources/views/carts/facturaTable.blade.php"
+			],
+			[
+				"cartcont",
+				"app/Http/Controllers/CartController.php"
+			],
+			[
+				"data",
+				"config/database.php"
+			],
+			[
+				"composer.",
+				"composer.json"
+			],
+			[
+				"facade",
+				"vendor/barryvdh/laravel-debugbar/src/Facade.php"
+			],
+			[
+				"composer.json",
+				"composer.json"
+			],
+			[
+				"mainsummary",
+				"resources/views/articles/mainSummary.blade.php"
+			],
+			[
+				"articlecontro",
+				"app/Http/Controllers/ArticleController.php"
+			],
+			[
+				"items",
+				"resources/views/sales/items.blade.php"
+			],
+			[
+				"ventalibretable",
+				"resources/views/carts/ventaLibreTable.blade.php"
+			],
+			[
+				"salecontr",
+				"app/Http/Controllers/SaleController.php"
+			],
+			[
+				"boletaventatable",
+				"resources/views/carts/boletaVentaTable.blade.php"
+			],
+			[
+				"purchaseviewcontroller",
+				"public/js/viewControllers/PurchaseViewController.js"
+			],
+			[
+				"purchases",
+				"resources/views/carts/purchases.blade.php"
+			],
+			[
+				"cartco",
+				"app/Http/Controllers/CartController.php"
+			],
+			[
+				"storeviewcontroller",
+				"public/js/viewControllers/StoreViewController.js"
+			],
+			[
+				"articlecontroller",
+				"app/Http/Controllers/ArticleController.php"
+			],
+			[
+				"cartcontro",
+				"app/Http/Controllers/CartController.php"
+			],
+			[
+				"storevi",
+				"public/js/viewControllers/StoreViewController.js"
+			],
+			[
+				"articlecontr",
+				"app/Http/Controllers/ArticleController.php"
+			],
+			[
+				"view",
+				"resources/views/articles/view.blade.php"
+			],
+			[
+				"cc",
+				"app/Http/Controllers/CartController.php"
+			],
+			[
+				"dailypurchase",
+				"resources/views/sales/dailypurchase.blade.php"
+			],
+			[
+				"purchasecontrol",
+				"app/Http/Controllers/PurchaseController.php"
+			],
+			[
+				"stockviewcontroller",
+				"public/js/viewControllers/StockViewController.js"
+			],
+			[
+				"stock",
+				"resources/views/stocks/stock.blade.php"
+			],
+			[
+				"stockcontr",
+				"app/Http/Controllers/StockController.php"
+			],
+			[
+				"web.php",
+				"routes/web.php"
+			],
+			[
+				"layou",
+				"resources/views/vendor/mail/html/layout.blade.php"
+			],
+			[
+				"articleviewcontroller",
+				"public/js/viewControllers/ArticleViewController.js"
+			],
+			[
+				"2017_08_30_205352_add_usd_cost_article_table",
+				"database/migrations/2017_08_30_205352_add_usd_cost_article_table.php"
+			],
+			[
+				"articlecon",
+				"app/Http/Controllers/ArticleController.php"
+			],
+			[
+				"clientsviewcontroller",
+				"public/js/viewControllers/ClientsViewController.js"
+			],
+			[
+				"getlistcustomers",
+				"resources/views/customers/getListCustomers.blade.php"
+			],
+			[
+				"customercontroller",
+				"app/Http/Controllers/CustomerController.php"
+			],
+			[
+				"svc",
+				"public/js/viewControllers/StockViewController.js"
+			],
+			[
+				"stockcontroller",
+				"app/Http/Controllers/StockController.php"
+			],
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"dailysummary",
+				"resources/views/sales/dailysummary.blade.php"
+			],
+			[
+				"stockcontro",
+				"app/Http/Controllers/StockController.php"
+			],
+			[
+				"boleta",
+				"resources/views/carts/boletaVentaTable.blade.php"
+			],
+			[
+				"purchasecontr",
+				"app/Http/Controllers/PurchaseController.php"
+			],
+			[
+				"cartcontroll",
+				"app/Http/Controllers/CartController.php"
+			],
+			[
+				"summarytablebody",
+				"resources/views/articles/summaryTableBody.blade.php"
+			],
+			[
+				"article",
+				"app/Models/Article.php"
+			],
+			[
+				"inventoryextensions.js",
+				"public/js/extensions/InventoryExtensions.js"
+			],
+			[
+				"jquery.validationengine.js",
+				"public/js/jquery.validationEngine.js"
+			],
+			[
+				"purchasecontroller",
+				"app/Http/Controllers/PurchaseController.php"
+			],
+			[
+				"cartcontrol",
+				"app/Http/Controllers/CartController.php"
+			],
+			[
+				"inventarios.css",
+				"public/css/inventarios.css"
+			],
+			[
+				"jumbotron.css",
+				"public/css/jumbotron.css"
+			],
+			[
+				"validationengine.jquery.css",
+				"public/css/validationEngine.jquery.css"
+			],
+			[
+				"jconfirmaction.jquery.js",
+				"public/js/jconfirmaction.jquery.js"
+			],
+			[
+				"jquery.floatthead",
+				"public/js/jquery.floatThead.js"
+			],
+			[
+				"inventarios.js",
+				"public/js/inventarios.js"
+			],
+			[
+				"css/jumbotron.css",
+				"public/css/jumbotron.css"
+			],
+			[
+				"jquery-ui.css",
+				"public/css/jquery-ui.css"
+			],
+			[
+				"jquery-ui.js",
+				"public/js/jquery-ui.js"
+			],
+			[
+				"jquery-ui-smoothness.css",
+				"public/css/jquery-ui-smoothness.css"
+			],
+			[
+				"articlcontro",
+				"app/Http/Controllers/ArticleController.php"
+			],
+			[
+				"clientscontroller",
+				"public/js/viewControllers/ClientsViewController.js"
+			],
+			[
+				"customercon",
+				"app/Http/Controllers/CustomerController.php"
+			],
+			[
+				"salecontroll",
+				"app/Http/Controllers/SaleController.php"
+			],
+			[
+				"databa",
+				"config/database.php"
+			],
+			[
+				"menu.",
+				"resources/views/menu.blade.php"
+			],
+			[
+				"layo",
+				"resources/views/vendor/mail/html/layout.blade.php"
+			],
+			[
+				"salecontroller",
+				"app/Http/Controllers/SaleController.php"
+			],
+			[
+				"purchaseitem",
+				"app/Models/PurchaseItem.php"
+			],
+			[
+				"purchase",
+				"app/Models/Purchase.php"
+			],
+			[
+				"stockdetail",
+				"resources/views/stocks/stockDetail.blade.php"
+			],
+			[
+				"salecotr",
+				"app/Http/Controllers/SaleController.php"
+			],
+			[
+				"2017_07_02_221146_add_purchaseitemid_stock",
+				"database/migrations/2017_07_02_221146_add_purchaseitemid_stock.php"
+			],
+			[
+				"purchasecon",
+				"app/Http/Controllers/PurchaseController.php"
+			],
+			[
+				"app",
+				"config/app.php"
+			],
+			[
+				"app.",
+				"config/app.php"
+			],
+			[
+				"artic",
+				"app/Models/Article.php"
+			],
+			[
+				"cartcon",
+				"app/Http/Controllers/CartController.php"
+			],
+			[
+				"cartc",
+				"app/Http/Controllers/CartController.php"
+			],
+			[
+				"articlec",
+				"app/Http/Controllers/ArticleController.php"
+			],
+			[
+				"salecon",
+				"app/Http/Controllers/SaleController.php"
+			],
+			[
+				"cart",
+				"app/Http/Controllers/CartController.php"
+			],
+			[
+				"sto",
+				"app/Models/Stock.php"
+			],
+			[
+				"customer",
+				"app/Models/Customer.php"
+			],
+			[
+				"cartview",
+				"public/js/viewControllers/CartViewController.js"
+			],
+			[
+				"2017_04_15_044745_create_customer_table.php",
+				"database/migrations/2017_04_15_044745_create_customer_table.php"
+			],
+			[
+				"2017_04_15_072155_add_customer_to_sales.php",
+				"database/migrations/2017_04_15_072155_add_customer_to_sales.php"
+			],
+			[
+				"cartviewcont",
+				"public/js/viewControllers/CartViewController.js"
+			],
+			[
+				"2017_04_15_072155_add_customer_to_sales",
+				"database/migrations/2017_04_15_072155_add_customer_to_sales.php"
+			],
+			[
+				"2017_04_15_065230_add_customer_to_purchases",
+				"database/migrations/2017_04_15_065230_add_customer_to_purchases.php"
+			],
+			[
+				"2017_04_15_044745_create_customer_table",
+				"database/migrations/2017_04_15_044745_create_customer_table.php"
+			],
+			[
+				"database.p",
+				"config/database.php"
+			],
+			[
+				"migrator.php",
+				"vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php"
+			],
+			[
+				"2017_04_09_002957_updatepurchasestable.php",
+				"database/migrations/2017_04_09_002957_updatePurchasesTable.php"
+			],
+			[
+				"database",
+				"config/database.php"
+			],
+			[
+				"connection.php",
+				"vendor/laravel/framework/src/Illuminate/Database/Connection.php"
+			],
+			[
+				"kernel.php",
+				"app/Console/Kernel.php"
+			],
+			[
+				"2017_04_09_002957_updatepurchasestable",
+				"database/migrations/2017_04_09_002957_updatePurchasesTable.php"
+			],
+			[
+				".e",
+				".env"
+			],
+			[
+				"edit",
+				"resources/views/branches/edit.blade.php"
+			],
+			[
+				"branchcontroller",
+				"app/Http/Controllers/BranchController.php"
+			],
+			[
+				"articleconroll",
+				"app/Http/Controllers/ArticleController.php"
+			],
+			[
+				"salecontrol",
+				"app/Http/Controllers/SaleController.php"
+			],
+			[
+				"web.p",
+				"routes/web.php"
+			],
+			[
+				"articlecontrol",
+				"app/Http/Controllers/ArticleController.php"
+			],
+			[
+				"article.",
+				"app/Models/Article.php"
+			],
+			[
+				"articlecontroll",
+				"app/Http/Controllers/ArticleController.php"
+			],
+			[
+				"calculo-precio",
+				"public/js/calculo-precio.js"
+			],
+			[
+				"salecotro",
+				"app/Http/Controllers/SaleController.php"
+			],
+			[
+				"cartsale",
+				"resources/views/plugins/cartsale.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 849.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
