@@ -519,87 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "ColorSelection.py",
-			"settings":
-			{
-				"buffer_size": 999,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "ColorRegion.py",
-			"settings":
-			{
-				"buffer_size": 2211,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_ColorRegion.py",
-			"settings":
-			{
-				"buffer_size": 6946,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "CannyEdges.py",
-			"settings":
-			{
-				"buffer_size": 983,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "HoughTransform.py",
-			"settings":
-			{
-				"buffer_size": 2233,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_HoughTransform.py",
-			"settings":
-			{
-				"buffer_size": 4864,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "IntroductionNeuralNetwork/NotPerceptron.py",
-			"settings":
-			{
-				"buffer_size": 1529,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "IntroductionNeuralNetwork/SimpleNetwork.py",
-			"settings":
-			{
-				"buffer_size": 292,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "work.py",
-			"settings":
-			{
-				"buffer_size": 4095,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -703,6 +622,10 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/home/zerazobz/Study/CarND-LaneLines-P1"
+	],
 	"file_history":
 	[
 		"/home/zerazobz/Study/CarND-LaneLines-P1/src/v0/NotPerceptron.py",
@@ -850,38 +773,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"interator",
-			"HoughLinesP",
-			"mask",
-			"inRange",
-			"# plt.plot(x, y, 'b--', lw=4)",
-			"inRange",
-			"   \n",
-			"mask",
-			"mask' ",
-			"ShowImageData",
-			"image",
-			"()\t",
-			"getTruePointsandIndexes",
-			"lookForWhitePixels",
-			"printTwoFirstAndOneLas",
-			"lookForWhitePixels",
-			"color_select[",
-			"printTwoFirstAndOneLas",
-			"np",
-			"()",
-			"XX",
-			"color_thresholds",
-			"\ncolor_thresholds",
-			"color_thresholds",
-			"shape",
-			"GaussianBlur",
-			"plot",
-			"blue",
-			"140",
-			"jpg",
-			"high_threshold",
-			"low_threshold"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -889,7 +780,6 @@
 		"regex": false,
 		"replace_history":
 		[
-			"iterator"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -900,330 +790,8 @@
 	"groups":
 	[
 		{
-			"selected": 8,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "ColorSelection.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 999,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								443,
-								443
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "ColorRegion.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2211,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2211,
-								2211
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 358.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_ColorRegion.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6946,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6610,
-								6639
-							],
-							[
-								6885,
-								6856
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".",
-									"selector": "source.python - string - constant.numeric"
-								},
-								{
-									"characters": ".",
-									"selector": "source.python - string - constant.numeric"
-								}
-							],
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 2667.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "CannyEdges.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 983,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								983,
-								983
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": ".",
-									"selector": "source.python - string - comment - constant.numeric"
-								},
-								{
-									"characters": ".",
-									"selector": "source.python - string - constant.numeric"
-								}
-							],
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 90.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "HoughTransform.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2233,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								610,
-								610
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 585.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_HoughTransform.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4864,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3163,
-								3163
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": ".",
-									"selector": "source.python - string - comment - constant.numeric"
-								},
-								{
-									"characters": ".",
-									"selector": "source.python - string - constant.numeric"
-								},
-								{
-									"characters": ".",
-									"selector": "source.python - string - constant.numeric"
-								}
-							],
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1170.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "IntroductionNeuralNetwork/NotPerceptron.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1529,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1529,
-								1529
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": ".",
-									"selector": "source.python - string - comment - constant.numeric"
-								},
-								{
-									"characters": ".",
-									"selector": "source.python - string - constant.numeric"
-								}
-							],
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 270.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "IntroductionNeuralNetwork/SimpleNetwork.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 292,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								292,
-								292
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": ".",
-									"selector": "source.python - string - comment - constant.numeric"
-								},
-								{
-									"characters": ".",
-									"selector": "source.python - string - constant.numeric"
-								}
-							],
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "work.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4095,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2470,
-								2470
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 915.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1267,7 +835,7 @@
 		"height": 88.0
 	},
 	"pinned_build_system": "",
-	"project": "carnd.sublime-project",
+	"project": "CarND-LaneLines-P1.sublime-project",
 	"replace":
 	{
 		"height": 68.0

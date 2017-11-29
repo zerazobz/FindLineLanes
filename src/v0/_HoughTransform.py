@@ -16,9 +16,9 @@ def ShowImageData(image, name):
 	plt.suptitle(name)
 	plt.show()
 
-
 # Read in and grayscale the image
-image = mpimg.imread('exit-ramp.jpg')
+# image = mpimg.imread('exit-ramp.jpg')
+image = mpimg.imread('./../../test_images/solidYellowLeft.jpg')
 # image = mpimg.imread('test.jpg')
 gray = cv2.cvtColor(image,cv2.COLOR_RGB2GRAY)
 ShowImageData(gray, "gray after cv2.cvtColor(image,cv2.COLOR_RGB2GRAY)")
@@ -79,6 +79,8 @@ print("imshape")
 print(imshape)
 
 for line in lines:
+    print("print(line)")
+    print(line)
     for x1,y1,x2,y2 in line:
         if (y2 - y1) / (x2 - x1) > 0:
             # print("Right")
