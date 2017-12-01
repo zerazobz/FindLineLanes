@@ -96,6 +96,9 @@ rgb_threshold = [red_threshold, green_threshold, blue_threshold]
 left_bottom = [130, 539]
 right_bottom = [880, 539]
 apex = [470, 295]
+# left_bottom = [0, 539]
+# right_bottom = [950, 539]
+# apex = [470, 80]
 
 # Perform a linear fit (y=Ax+B) to each of the three sides of the triangle
 # np.polyfit returns the coefficients [A, B] of the fit

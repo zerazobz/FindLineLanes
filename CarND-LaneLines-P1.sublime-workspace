@@ -519,6 +519,33 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "P1.ipynb",
+			"settings":
+			{
+				"buffer_size": 170886,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/v0/_HoughTransform.py",
+			"settings":
+			{
+				"buffer_size": 4970,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/v0/_ColorRegion.py",
+			"settings":
+			{
+				"buffer_size": 7018,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -527,7 +554,7 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 64.0,
+		"height": 214.0,
 		"last_filter": "python",
 		"selected_items":
 		[
@@ -604,7 +631,7 @@
 				"Preferences: Key Bindings"
 			]
 		],
-		"width": 497.0
+		"width": 461.0
 	},
 	"console":
 	{
@@ -624,7 +651,11 @@
 	},
 	"expanded_folders":
 	[
-		"/home/zerazobz/Study/CarND-LaneLines-P1"
+		"/home/zerazobz/Study/CarND-LaneLines-P1",
+		"/home/zerazobz/Study/CarND-LaneLines-P1/src",
+		"/home/zerazobz/Study/CarND-LaneLines-P1/src/v0",
+		"/home/zerazobz/Study/CarND-LaneLines-P1/src/v0/IntroductionNeuralNetwork",
+		"/home/zerazobz/Study/CarND-LaneLines-P1/test_images_output"
 	],
 	"file_history":
 	[
@@ -759,7 +790,7 @@
 	],
 	"find":
 	{
-		"height": 38.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -773,6 +804,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"line_image",
+			"image.shape"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -790,8 +823,109 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "P1.ipynb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 170886,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129429,
+								129429
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 25377.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/v0/_HoughTransform.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4970,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3196,
+								3196
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/v0/_ColorRegion.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7018,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2906,
+								2906
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -801,7 +935,7 @@
 	},
 	"input":
 	{
-		"height": 31.0
+		"height": 35.0
 	},
 	"layout":
 	{
@@ -838,7 +972,7 @@
 	"project": "CarND-LaneLines-P1.sublime-project",
 	"replace":
 	{
-		"height": 68.0
+		"height": 42.0
 	},
 	"save_all_on_build": false,
 	"select_file":

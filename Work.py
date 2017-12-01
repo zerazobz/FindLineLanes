@@ -3,20 +3,8 @@ import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import numpy as np
 import cv2
-
-import math
-
 # %matplotlib inline
-
-#reading in an image
-image = mpimg.imread('test_images/solidWhiteRight.jpg')
-
-#printing out some stats and plotting
-print('This image is:', type(image), 'with dimensions:', image.shape)
-plt.imshow(image)  # if you wanted to show a single color channel image called 'gray', for example, call as plt.imshow(gray, cmap='gray')
-plt.show()
-
-
+import math
 
 def grayscale(img):
     """Applies the Grayscale transform
@@ -61,7 +49,7 @@ def region_of_interest(img, vertices):
     return masked_image
 
 
-def draw_lines(img, lines, color=[255, 0, 0], thickness=2):
+def draw_lines(img, lines, imshape, color=[255, 0, 0], thickness=20):
     """
     NOTE: this is the function you might want to use as a starting point once you want to 
     average/extrapolate the line segments you detect to map out the full
@@ -78,9 +66,40 @@ def draw_lines(img, lines, color=[255, 0, 0], thickness=2):
     If you want to make the lines semi-transparent, think about combining
     this function with the weighted_img() function below
     """
+#     for line in lines:
+#         for x1,y1,x2,y2 in line:
+#             cv2.line(img, (x1, y1), (x2, y2), color, thickness)
+    iterator = 0
+    minLeftX, minLeftY, maxLeftX, maxLeftY =  imshape[1], 0, 0, imshape[0]
+    minRightX, minRightY, maxRightX, maxRightY = imshape[1], imshape[0], 0, 0
+
     for line in lines:
         for x1,y1,x2,y2 in line:
-            cv2.line(img, (x1, y1), (x2, y2), color, thickness)
+            if (y2 - y1) / (x2 - x1) > 0:
+                if x1 < minRightX:
+                    minRightX = x1
+                if y1 < minRightY:
+                    minRightY = y1
+                if x2 > maxRightX:
+                    maxRightX = x2
+                if y2 > maxRightY:
+                    maxRightY = y2
+            elif (y2 - y1) / (x2 - x1) < 0:
+                if x1 < minLeftX:
+                    minLeftX = x1
+                if y1 > minLeftY:
+                    minLeftY = y1
+                if x2 > maxLeftX:
+                    maxLeftX = x2
+                if y2 < maxLeftY:
+                    maxLeftY = y2
+            iterator += 1
+
+    print("Values of minLeftX, minLeftY, maxLeftX, maxLeftY are %d, %d, %d, %d" % (minLeftX, minLeftY, maxLeftX, maxLeftY))
+    print("Values of minRightX, minRightY, maxRightX, maxRightY are %d, %d, %d, %d" % (minRightX, minRightY, maxRightX, maxRightY))
+
+    cv2.line(img,(minLeftX,minLeftY),(maxLeftX,maxLeftY),color, thickness)
+    cv2.line(img,(minRightX,minRightY),(maxRightX,maxRightY),color, thickness)
 
 def hough_lines(img, rho, theta, threshold, min_line_len, max_line_gap):
     """
@@ -90,7 +109,7 @@ def hough_lines(img, rho, theta, threshold, min_line_len, max_line_gap):
     """
     lines = cv2.HoughLinesP(img, rho, theta, threshold, np.array([]), minLineLength=min_line_len, maxLineGap=max_line_gap)
     line_img = np.zeros((img.shape[0], img.shape[1], 3), dtype=np.uint8)
-    draw_lines(line_img, lines)
+    draw_lines(line_img, lines, line_img.shape)
     return line_img
 
 # Python 3 has support for cool math symbols.
@@ -108,3 +127,57 @@ def weighted_img(img, initial_img, α=0.8, β=1., λ=0.):
     NOTE: initial_img and img must be the same shape!
     """
     return cv2.addWeighted(initial_img, α, img, β, λ)
+
+
+
+print()
+print("Empezando el procesamiento...")
+# TODO: Build your pipeline that will draw lane lines on the test_images
+# then save them to the test_images directory.
+
+kernelsize = 5
+low_threshold = 50
+high_threshold = 150
+rho = 2 # distance resolution in pixels of the Hough grid
+theta = 1 * np.pi/180 # angular resolution in radians of the Hough grid
+threshold = 15     # minimum number of votes (intersections in Hough grid cell)
+min_line_length = 40 #minimum number of pixels making up a line
+max_line_gap = 20    # maximum gap in pixels between connectable line segments
+
+
+# for imagePath in os.listdir("test_images/"):
+for imagePath in ['solidYellowLeft.jpg']:
+    print()
+    print("We are processing the image: %s"%(imagePath))
+    image = mpimg.imread('test_images/' + imagePath)
+    plt.suptitle("image")
+    plt.imshow(image)
+    plt.show()
+
+    imshape = image.shape
+    
+    grayImage = grayscale(image)
+    blurImage = gaussian_blur(grayImage, kernelsize)
+    cannyImage = canny(blurImage, low_threshold, high_threshold)
+    
+    vertices = np.array([[(0,imshape[0]),(450, 290), (490, 290), (imshape[1],imshape[0])]], dtype=np.int32)
+    maskedImage = region_of_interest(cannyImage, vertices)
+    
+    plt.suptitle("maskedImage")
+    plt.imshow(maskedImage)
+    plt.show()
+
+    imageWithLines = hough_lines(maskedImage, rho, theta, threshold, min_line_length, max_line_gap)
+    # color_edges = np.dstack((cannyImage, cannyImage, cannyImage)) 
+    finalImage = weighted_img(imageWithLines, image, α=0.8, β=1., λ=0.)
+
+    print("The image with name: %s"%(imagePath))
+    
+    plt.suptitle("finalImage")
+    plt.imshow(finalImage)
+    plt.show()
+
+#     plt.imshow(finalImage)
+    mpimg.imsave("test_images_output/" + imagePath.rsplit( ".", 1 )[ 0 ] + ".png", finalImage)
+
+
